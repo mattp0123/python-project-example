@@ -1,0 +1,9 @@
+[project]
+name = "my_project"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [{ name = "Matt" }]
+dependencies = []
+requires-python = "==3.11.*"
+readme = "README.md"
+license = { text = "MIT" }
